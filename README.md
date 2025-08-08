@@ -52,6 +52,3 @@ This approach enables the detection of thematic patterns without reliance on har
   author={Muhammad Ibrahim},
   year={2025}
 }
-
-
-## 📂 Repository Structure  
